@@ -9,5 +9,8 @@ internal class Program
 
         PerfectNumber perfectNumber = new PerfectNumber();
         perfectNumber.CheckPerfactNum();
+
+        PrimeNumber primeNumber = new PrimeNumber();
+        primeNumber.checkPrimeNum();
     }
 }
