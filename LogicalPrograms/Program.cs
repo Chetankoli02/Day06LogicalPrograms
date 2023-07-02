@@ -12,5 +12,8 @@ internal class Program
 
         PrimeNumber primeNumber = new PrimeNumber();
         primeNumber.checkPrimeNum();
+
+        ReverseNumber reverseNumber = new ReverseNumber();
+        reverseNumber.ReverseNum();
     }
 }
